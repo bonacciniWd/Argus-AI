@@ -198,4 +198,4 @@ Contribuições são bem-vindas! Por favor, sinta-se à vontade para submeter um
 
 Denis Bonaccini - [@denisbonaccini](https://github.com/denisbonaccini)
 
-Link do Projeto: [https://github.com/bonacciniWd/Argus-AI)]([https://github.com/denisbonaccini/sistema-monitoramento-furtos](https://github.com/bonacciniWd/Argus-AI)) 
+Link do Projeto: [https://github.com/bonacciniWd/Argus-AI)](https://github.com/bonacciniWd/Argus-AI) 
